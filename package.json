@@ -1,6 +1,6 @@
 {
-  "name": "qwik_and_tailwind_starterplate",
-  "description": "Starter Template for Qwik & Tailwind",
+  "name": "takaon",
+  "description": "Recommends where to dine.",
   "private": true,
   "scripts": {
     "build": "qwik build",
